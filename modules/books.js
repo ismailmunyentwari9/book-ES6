@@ -58,7 +58,6 @@ const book = () => {
   }
 
   AwesomeLibrary.initialize();
-
   formButton.addEventListener('submit', (e) => {
     e.preventDefault();
     AwesomeLibrary.addBook(title.value, author.value);
