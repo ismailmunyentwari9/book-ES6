@@ -64,7 +64,6 @@ const book = () => {
     AwesomeLibrary.addBook(title.value, author.value);
     AwesomeLibrary.cleanInputs();
   });
-
 };
 
 export default book();
