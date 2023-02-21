@@ -1,0 +1,20 @@
+{
+  "name": "book-es6",
+  "version": "1.0.0",
+  "description": "- [📖 About the Project](#about-awesome-books)   - [🛠 Built With](#built-with)     - [Tech Stack](#tech-stack)     - [Key Features](#key-features)   - [🚀 Live Demo](#live-demo) - [💻 Getting Started](#getting-started)   - [Setup](#setup)   - [Prerequisites](#prerequisites)   - [Run tests](#run-tests)   - [Deployment](#triangular_flag_on_post-deployment) - [👥 Authors](#amen-and-Isma) - [🔭 Future Features](#the other pages) - [🤝 Contributing](#contributing) - [⭐️ Show your support](#support) - [🙏 Acknowledgements](#microverse) - [❓ FAQ (OPTIONAL)](#faq) - [📝 License](#license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailmunyentwari9/book-ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismailmunyentwari9/book-ES6/issues"
+  },
+  "homepage": "https://github.com/ismailmunyentwari9/book-ES6#readme"
+}
