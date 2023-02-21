@@ -120,7 +120,7 @@ a:hover {
 
 #list {
   width: 100%;
-  display: none;
+  display: block;
 }
 
 #list h1 {
