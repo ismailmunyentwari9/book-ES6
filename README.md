@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://ismailmunyentwari9.github.io/books/)
+- [Live Demo Link](ismailmunyentwari9.github.io/book-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +73,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder using the following command; git clone https://github.com/ismailmunyentwari9/books
+Clone this repository to your desired folder using the following command; git clone https://github.com/ismailmunyentwari9/book-ES6.git
 
 ### Run tests
 
@@ -88,8 +88,6 @@ You can deploy this project using Github pages.
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-
 
 👤 **Ismail Munyentwari**
 
