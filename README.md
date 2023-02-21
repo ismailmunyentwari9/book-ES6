@@ -73,7 +73,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder using the following command; git clone https://github.com/ismailmunyentwari9/book-ES6.git
+Clone this repository to your desired folder using the following command; git clone https://github.com/ismailmunyentwari9/books
 
 ### Run tests
 
@@ -88,6 +88,8 @@ You can deploy this project using Github pages.
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+
+
 
 👤 **Ismail Munyentwari**
 

@@ -1,22 +1,22 @@
 {
-  "name": "awesomebook-es6",
+  "name": "awesomebook",
   "version": "1.0.0",
-  "description": "- [📖 About the Project](#about-awesome-books)\r   - [🛠 Built With](#built-with)\r     - [Tech Stack](#tech-stack)\r     - [Key Features](#key-features)\r   - [🚀 Live Demo](#live-demo)\r - [💻 Getting Started](#getting-started)\r   - [Setup](#setup)\r   - [Prerequisites](#prerequisites)\r   - [Run tests](#run-tests)\r   - [Deployment](#triangular_flag_on_post-deployment)\r - [👥 Authors](#amen-and-Isma)\r - [🔭 Future Features](#the other pages)\r - [🤝 Contributing](#contributing)\r - [⭐️ Show your support](#support)\r - [🙏 Acknowledgements](#microverse)\r - [❓ FAQ (OPTIONAL)](#faq)\r - [📝 License](#license)",
-  "main": "index.js",
+  "description": "",
+  "main": "books.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ismailmunyentwari9/awesomeBook-ES6.git"
+    "url": "git+https://github.com/ismailmunyentwari9/Awesomebook.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ismailmunyentwari9/awesomeBook-ES6/issues"
+    "url": "https://github.com/ismailmunyentwari9/Awesomebook/issues"
   },
-  "homepage": "https://github.com/ismailmunyentwari9/awesomeBook-ES6#readme",
+  "homepage": "https://github.com/ismailmunyentwari9/Awesomebook#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
